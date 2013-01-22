@@ -1,0 +1,17 @@
+{
+	"name": "TV 2 ČSFD",
+	"version": "1.0",
+	"description": "Zobrazuje odkaz v televizním programu tv.seznam.cz vedoucí na daný pořad na serveru ČSFD",
+	"manifest_version": 2,
+	"content_scripts": [
+		{
+			"matches": ["http://tv.seznam.cz/*"],
+			"js": ["jquery-1.8.0.min.js", "script.js"]
+		}
+	],
+	"icons": {
+	  	"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png"
+	}
+}
