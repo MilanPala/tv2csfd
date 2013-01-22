@@ -1,0 +1,12 @@
+tv2csfd
+=======
+
+Rozšíření pro Google Chrome, které zobrazí přímý odkaz na pořad na ČSFD v televizním programu na tv.seznam.cz.
+
+Instalace
+=========
+
+1) Stáhněte připravený archiv tv2csfd.zip a rozbalte.
+2) V prohlížeči Google Chrome vyberte v menu Nastavení -> Rozšíření.
+3) Zatrhněte v horním pravém rohu volbu "Režim pro vývojáře".
+4) Vyberte volbu "Načíst rozbalené rozšíření" a vyberte adresář tv2csfd.
